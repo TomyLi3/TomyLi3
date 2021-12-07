@@ -1,5 +1,5 @@
 - 👋 Hello World, Eu sou Tom
-- 👀 Atualmente tenho pensado desenvolvimento web
+- 👀 Atualmente tenho pensado em desenvolvimento web
 - 🌱 Tenho estudado programação em diversas áreas
 - 💞️ Pretendo colaborar fortemente com o back-end
 
